@@ -1,0 +1,9 @@
+E:\网球\03网球鹰眼顶级赛事版\01src\RigourTech.Tennis\EventAnaliyServerTest\bin\Debug\EventAnaliyServerTest.exe.config
+E:\网球\03网球鹰眼顶级赛事版\01src\RigourTech.Tennis\EventAnaliyServerTest\bin\Debug\EventAnaliyServerTest.exe
+E:\网球\03网球鹰眼顶级赛事版\01src\RigourTech.Tennis\EventAnaliyServerTest\bin\Debug\EventAnaliyServerTest.pdb
+E:\网球\03网球鹰眼顶级赛事版\01src\RigourTech.Tennis\EventAnaliyServerTest\bin\Debug\Common.dll
+E:\网球\03网球鹰眼顶级赛事版\01src\RigourTech.Tennis\EventAnaliyServerTest\bin\Debug\Thrift.dll
+E:\网球\03网球鹰眼顶级赛事版\01src\RigourTech.Tennis\EventAnaliyServerTest\bin\Debug\Common.pdb
+E:\网球\03网球鹰眼顶级赛事版\01src\RigourTech.Tennis\EventAnaliyServerTest\obj\Debug\EventAnaliyServerTest.exe
+E:\网球\03网球鹰眼顶级赛事版\01src\RigourTech.Tennis\EventAnaliyServerTest\obj\Debug\EventAnaliyServerTest.pdb
+E:\网球\03网球鹰眼顶级赛事版\01src\RigourTech.Tennis\EventAnaliyServerTest\obj\Debug\EventAnaliyClientTest.csprojResolveAssemblyReference.cache
